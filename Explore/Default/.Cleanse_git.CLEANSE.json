@@ -1,0 +1,25 @@
+{
+  "objectInfo" : {
+    "id" : "8C8LBIADV2cjxce7ylm8EC",
+    "name" : "Cleanse_git",
+    "type" : "CLEANSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "8C8LBIADV2cjxce7ylm8EC"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-11-22T09:41:10.670Z",
+  "objectRefs" : [ ]
+}
