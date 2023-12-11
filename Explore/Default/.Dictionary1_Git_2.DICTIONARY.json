@@ -1,0 +1,25 @@
+{
+  "objectInfo" : {
+    "id" : "3FAoKLd71vWigzLNzn9VqG",
+    "name" : "Dictionary1_Git_2",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "3FAoKLd71vWigzLNzn9VqG"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-12-11T08:47:24.740Z",
+  "objectRefs" : [ ]
+}
