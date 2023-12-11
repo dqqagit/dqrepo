@@ -1,0 +1,25 @@
+{
+  "objectInfo" : {
+    "id" : "5q9367Awfsfg5d5qVpYrwo",
+    "name" : "Dictionary_git",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "5q9367Awfsfg5d5qVpYrwo"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Creating new dictionary in git",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-12-11T08:37:08.613Z",
+  "objectRefs" : [ ]
+}
