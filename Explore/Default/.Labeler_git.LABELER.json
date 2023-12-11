@@ -1,0 +1,25 @@
+{
+  "objectInfo" : {
+    "id" : "71d86CIB8GilwqY6tF9sUm",
+    "name" : "Labeler_git",
+    "type" : "LABELER",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "71d86CIB8GilwqY6tF9sUm"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Creating new labeler in got user",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-12-11T09:52:57.299Z",
+  "objectRefs" : [ ]
+}
